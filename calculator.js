@@ -37,3 +37,4 @@ function division(a, b) {
 
 let sum4 = division(num1, num2);
 console.log('The answer is', sum4);
+
